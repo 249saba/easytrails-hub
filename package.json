@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/base": "^5.0.0-beta.0",
+    "@mui/material": "^5.13.0",
+    "@mui/system": "^5.12.3",
+    "jquery": "^3.6.4",
+    "jQuery": "^1.7.4",
+    "material-avatar": "^0.3.5",
+    "react-bootstrap": "^2.7.4"
+  }
+}

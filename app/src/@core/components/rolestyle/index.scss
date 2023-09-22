@@ -1,0 +1,147 @@
+.role-content .modal .modal-header {
+    background-color: #ffffff !important;
+}
+
+.role-content .role-h5 {
+    color: #2c2c2c !important;
+}
+
+.role-content .table> :not(caption)>*>* {
+    padding: 1.52rem 2rem;
+}
+
+.role-content .role-permission-heading {
+    font-weight: bold;
+    border-bottom: solid;
+    border-width: 0.1px;
+    border-bottom-color: #f3f6f9;
+    padding-bottom: 10px;
+}
+
+.role-content .role-table {
+    --bs-table-color: #626262 !important;
+    --bs-table-bg: transparent;
+    --bs-table-border-color: #ebe9f1;
+    --bs-table-accent-bg: transparent;
+    --bs-table-striped-color: #626262 !important;
+    --bs-table-striped-bg: #fafafc;
+    --bs-table-active-color: #626262 !important;
+    --bs-table-active-bg: rgba(34, 41, 47, 0.1);
+    --bs-table-hover-color: #626262 !important;
+    --bs-table-hover-bg: #f6f6f9;
+    width: 100%;
+    color: var(--bs-table-color);
+    vertical-align: middle;
+}
+
+.role-content .role-modal {
+    padding-left: 4rem !important;
+    padding-right: 4rem !important;
+    padding-bottom: 4rem !important;
+    padding-top: 0rem !important;
+}
+
+.role-content .delete-icon {
+    font-size: 76px;
+    color: #ea5455;
+}
+
+.role-content .delete-txt {
+    font-size: 20px;
+}
+
+.role-content.spinner-add {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.role-content {
+    background-color: white;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    border-radius: 10px;
+}
+
+.role-content .Role-card-height {
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+.role-content .right-border {
+    border-right-style: inset;
+    border-right-width: 1px;
+}
+
+.role-content .card {
+    box-shadow: none !important;
+}
+
+.role-content .card-body-border {
+    border-radius: 5px !important;
+    border-bottom-width: 0.5px !important;
+    border-bottom-style: inset !important;
+}
+
+.role-content .nav-link.nav-link-width {
+    width: 40px !important;
+    height: 40px !important;
+    background-color: #e7ebf3 !important;
+}
+
+.role-content .nav-link.nav-link-width,
+.role-content i {
+    margin-right: 0px !important;
+}
+
+.role-content .nav-link.active {
+    width: 40px !important;
+    height: 40px !important;
+    background-color: blue !important;
+}
+
+.role-content .service-item {
+    margin-left: 10px;
+}
+
+.role-content .role-table-heading {
+    background-color: #f3f2f7 !important;
+    border-top: 1px solid !important;
+    border-color: #ebe9f1 !important;
+}
+
+.role-content .fa-brands {
+    margin-right: 0 !important;
+    padding: 0 !important;
+}
+
+.role-content .role-pagination {
+    display: flex;
+    background-color: #000000;
+    height: 30px;
+    padding-top: 5px;
+}
+
+.role-content .action-edit {
+    color: blue !important;
+}
+
+.role-content .action-delete {
+    color: red !important;
+}
+
+.role-content .green-icon {
+    color: rgb(16, 192, 0)
+}
+
+.role-content .add-new-role {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.role-content .error {
+    color: red;
+}
